@@ -27,6 +27,20 @@ Caso você não saiba...
 
 Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o), pelo que entendi, o espaço é formado por nós quantizados e conectados, que ressoam o "tempo". Sendo que um corpo, com uma grande densidade, "deforma" essa malha do espaço-tempo fazendo com que eles(os nós) tenham menos espaço para ressoar, acarretando na diminuição da "velocidade" do tempo.
 
+Eu sou um grande fã da Teoria das super-cordas, pois o Modelo Padrão e suas diversas sub-partículas não me deixavam satisfeito. Remetendo à Biologia podemos pensar nos nossos "blocos fundamentais", que são as células-tronco, a partir delas todas outras são geradas, podemos pensar nelas como um *Factory*, por exemplo:
+
+```js
+const CélulaTronco = require('DNA')
+
+const ossos = CélulaTronco.diferenciaçãoCelular('osso')
+const nervos = CélulaTronco.diferenciaçãoCelular('nervos')
+const músculos = CélulaTronco.diferenciaçãoCelular('músculos')
+const sangue = CélulaTronco.diferenciaçãoCelular('sangue')
+```
+
+
+...
+
 
 Depois li alguns conteúdos na Wikipedia para saciar minhas dúvidas:
 
