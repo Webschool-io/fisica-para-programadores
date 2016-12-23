@@ -25,7 +25,7 @@ Caso você não saiba...
 
 *fonte: [https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)*
 
-Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o), pelo que entendi da palestra, o espaço é formado por nós quantizados e conectados, que ressoam o "tempo". Sendo que um corpo, com uma grande densidade, "deforma" essa malha do espaço-tempo fazendo com que elas tenham menos espaço para ressoar, acarretando na diminuição da "velocidade" do tempo.
+Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o), pelo que entendi, o espaço é formado por nós quantizados e conectados, que ressoam o "tempo". Sendo que um corpo, com uma grande densidade, "deforma" essa malha do espaço-tempo fazendo com que eles(os nós) tenham menos espaço para ressoar, acarretando na diminuição da "velocidade" do tempo.
 
 
 Depois li alguns conteúdos na Wikipedia para saciar minhas dúvidas:
