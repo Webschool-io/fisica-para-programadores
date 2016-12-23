@@ -1,6 +1,6 @@
 # Física para Programadores
 
-> **Você já se perguntou o porquê o tempo passa mais devagar para quem está onde a gravidade é maior?**
+> **Você já se perguntou o porquê do tempo passar mais devagar para quem está onde a gravidade é maior?**
 
 
 *Caso queira ter uma noção gráfica veja Interestelar.*
@@ -11,11 +11,13 @@
 
 ## Questionamentos inicias
 
-Eu já tenho um conhecimento simplista sobre o [Modelo Padrão](https://pt.wikipedia.org/wiki/Modelo_padr%C3%A3o) e [Teoria das Cordas](https://pt.wikipedia.org/wiki/Teoria_das_cordas) para poder buscar as respostas que almejo.
+Eu já tenho um conhecimento simplista sobre Mecânica Quântica, o [Modelo Padrão](https://pt.wikipedia.org/wiki/Modelo_padr%C3%A3o) e a [Teoria das Cordas](https://pt.wikipedia.org/wiki/Teoria_das_cordas) para poder buscar as respostas que almejo.
 
-**Meu maior questionamento é sobre qual é o bloco fundamenta do Universo**, porém eu sempre me questionei:
+**Meu maior questionamento é saber qual é o bloco fundamental do Universo**, entretanto ainda tenho uma enorme pulga atrás da orelha.
 
-> **Como o tempo passa mais lento para um observadores que esteja em um local com gravidade maior?** E você já se perguntou? 
+> **Como o tempo passa mais lento para um observador que esteja em um local com gravidade maior?** 
+> 
+> E você, já se perguntou? 
 
 Caso você não saiba...
 
@@ -23,7 +25,10 @@ Caso você não saiba...
 
 *fonte: [https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)*
 
-Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) e ler alguns conteúdos na Wikipedia, tirei algumas concusões:
+Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o), pelo que entendi da palestra, o espaço é formado por nós quantizados e conectados, que ressoam o "tempo". Sendo que um corpo, com uma grande densidade, "deforma" essa malha do espaço-tempo...
+
+
+Depois li alguns conteúdos na Wikipedia para saciar minhas dúvidas:
 
 - [Gravidade quântica em loop](https://pt.wikipedia.org/wiki/Gravidade_qu%C3%A2ntica_em_loop)
 - [Geometria quântica](https://pt.wikipedia.org/wiki/Geometria_qu%C3%A2ntica)
@@ -31,10 +36,14 @@ Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o
 - [Espaço-tempo](https://pt.wikipedia.org/wiki/Espa%C3%A7o-tempo)
 - [Relatividade restrita](https://pt.wikipedia.org/wiki/Relatividade_restrita)
 - [Radiação eletromagnética](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica)
+- [Paradoxo EPR](https://pt.wikipedia.org/wiki/Paradoxo_EPR)
 - [Dilatação do tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)
 - [O que é Gravitação Quântica em Loop](http://www.misteriosdouniverso.net/2015/10/o-que-e-gravitacao-quantica-em-loop.html)
-![](https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
+- [Espuma de spin](https://pt.wikipedia.org/wiki/Espuma_de_spin)
+- [Espaço pode ser formado por "átomos de espaço"](http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=atomos-de-espaco&id=010130131025)
 
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
 
 ## Gravidade Quântica em Loop
 
