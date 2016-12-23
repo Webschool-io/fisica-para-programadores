@@ -15,7 +15,13 @@ Eu já tenho um conhecimento simplista sobre o Modelo Padrão e Teoria das Corda
 
 **Meu maior questionamento é sobre qual é o bloco fundamenta do Universo**, porém eu sempre me questionei:
 
-> **Como o tempo passa diferentemente para 2 observadores que estejam em locais com gravidades diferentes?** E você já se perguntou? 
+> **Como o tempo passa mais lento para um observadores que esteja em um local com gravidade maior?** E você já se perguntou? 
+
+Caso você não saiba...
+
+> Mostra-se importante frisar que a dilatação do tempo é um fenômeno real, que afeta não apenas os relógios mas todos os eventos, inclusive os biológicos. Tanto a dilatação do tempo atrelada à velocidade relativa quanto a dilatação do tempo atrelada à aceleração podem levar a dessincronias reais entre relógios previamente justapostos e sincronizados. O exemplo clássico é o paradoxo dos gêmeos, que envolve uma viagem de ida em uma nave espacial em velocidade próxima à da luz, justaposta à correspondente viagem de regresso, na qual apenas um dos gêmeos é passageiro.
+
+*fonte: [https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)*
 
 Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) ...
 
