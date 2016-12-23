@@ -23,7 +23,19 @@ Caso você não saiba...
 
 *fonte: [https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)*
 
-Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) ...
+Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) e ler alguns conteúdos na Wikipedia:
+
+
+- [Gravidade quântica em loop](https://pt.wikipedia.org/wiki/Gravidade_qu%C3%A2ntica_em_loop)
+- [Geometria quântica](https://pt.wikipedia.org/wiki/Geometria_qu%C3%A2ntica)
+- [Comprimento de Planck](https://pt.wikipedia.org/wiki/Comprimento_de_Planck)
+- [Espaço-tempo](https://pt.wikipedia.org/wiki/Espa%C3%A7o-tempo)
+- [Relatividade restrita](https://pt.wikipedia.org/wiki/Relatividade_restrita)
+- [Radiação eletromagnética](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica)
+- [Dilatação do tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
+
 
 ## Gravidade Quântica em Loop
 
