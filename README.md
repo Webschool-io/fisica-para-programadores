@@ -32,7 +32,7 @@ Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o
 - [Relatividade restrita](https://pt.wikipedia.org/wiki/Relatividade_restrita)
 - [Radiação eletromagnética](https://pt.wikipedia.org/wiki/Radia%C3%A7%C3%A3o_eletromagn%C3%A9tica)
 - [Dilatação do tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)
-
+- [O que é Gravitação Quântica em Loop](http://www.misteriosdouniverso.net/2015/10/o-que-e-gravitacao-quantica-em-loop.html)
 ![](https://upload.wikimedia.org/wikipedia/commons/2/22/Spacetime_curvature.png)
 
 
