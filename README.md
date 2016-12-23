@@ -33,7 +33,7 @@ Eu sou um grande fã da Teoria das Cordas, pois o Modelo Padrão e suas diversas
 Remetendo à Biologia podemos pensar nos nossos "blocos fundamentais", que são as células-tronco, a partir delas todas as outras são geradas, podemos pensar nelas como um *Factory*, por exemplo:
 
 ```js
-const CélulaTronco = require('DNA')
+const CélulaTronco = require('Totipotentes')(DNA)
 
 const ossos = CélulaTronco.diferenciaçãoCelular('osso')
 const nervos = CélulaTronco.diferenciaçãoCelular('nervos')
