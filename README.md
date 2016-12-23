@@ -11,7 +11,7 @@
 
 ## Questionamentos inicias
 
-Eu já tenho um conhecimento simplista sobre o Modelo Padrão e Teoria das Cordas para poder buscar as respostas que almejo.
+Eu já tenho um conhecimento simplista sobre o [Modelo Padrão](https://pt.wikipedia.org/wiki/Modelo_padr%C3%A3o) e [Teoria das Cordas](https://pt.wikipedia.org/wiki/Teoria_das_cordas) para poder buscar as respostas que almejo.
 
 **Meu maior questionamento é sobre qual é o bloco fundamenta do Universo**, porém eu sempre me questionei:
 
@@ -23,8 +23,7 @@ Caso você não saiba...
 
 *fonte: [https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo](https://pt.wikipedia.org/wiki/Dilata%C3%A7%C3%A3o_do_tempo)*
 
-Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) e ler alguns conteúdos na Wikipedia:
-
+Depois de ver [essa palestra do TED](https://www.youtube.com/watch?v=aSz5BjExs9o) e ler alguns conteúdos na Wikipedia, tirei algumas concusões:
 
 - [Gravidade quântica em loop](https://pt.wikipedia.org/wiki/Gravidade_qu%C3%A2ntica_em_loop)
 - [Geometria quântica](https://pt.wikipedia.org/wiki/Geometria_qu%C3%A2ntica)
